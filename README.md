@@ -8,8 +8,6 @@ My name is Mohamed Abukar and this is my personal porfolio. This is where you ca
 
 # Usage
 This porfolio was created solely for the purpose of getting hired hopefully.
-# license
- is the license that this this application is covered under.
 # Questions
 * My gitHub.[Github](https://github.com/mohamedabukar)
 * My email: mohamed.h.abukar@gmail.com
