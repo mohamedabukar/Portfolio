@@ -1,4 +1,4 @@
-# react-portfolio
+# React portfolio
 # Description
 My name is Mohamed Abukar and this is my personal porfolio. This is where you can view some of the code and projects that i've worked on. This portfolio also contains my contact information if you want ot get a hold of me. I hope you enjoy.
 # Table of contents 
