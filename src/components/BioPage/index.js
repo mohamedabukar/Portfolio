@@ -6,7 +6,6 @@ export default function BioPage() {
     return (
         <>
             <div>
-                <img className="profilePicture" src="./images/IMG_2978.JPG">
                 <h2>About Me</h2>
                 <p>My name is Mohamed Abukar and I am a 20 year old Full Stack Web Developer from Apple Valley, MN.</p>
                 <h3>Education</h3>
