@@ -4,3 +4,13 @@ div p{
 .profilePicture{
     background-image: url(../images/IMG_2978.JPG);
 }
+.bio-container {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 80px;
+    margin-top: -20px;
+}
+.bio-section{
+    display: inline-flexbox;
+}
