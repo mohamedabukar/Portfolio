@@ -1,27 +1,29 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.567b902f.chunk.css",
-    "main.js": "/Portfolio/static/js/main.f305f9cf.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.f305f9cf.chunk.js.map",
-    "runtime-main.js": "/Portfolio/static/js/runtime-main.79c0a6d8.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.79c0a6d8.js.map",
+    "main.css": "/Portfolio/static/css/main.ecaaaba4.chunk.css",
+    "main.js": "/Portfolio/static/js/main.444e0e5f.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.444e0e5f.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.9aef10e5.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.9aef10e5.js.map",
     "static/css/2.9082872e.chunk.css": "/Portfolio/static/css/2.9082872e.chunk.css",
-    "static/js/2.da55cd99.chunk.js": "/Portfolio/static/js/2.da55cd99.chunk.js",
-    "static/js/2.da55cd99.chunk.js.map": "/Portfolio/static/js/2.da55cd99.chunk.js.map",
-    "static/js/3.f706f96e.chunk.js": "/Portfolio/static/js/3.f706f96e.chunk.js",
-    "static/js/3.f706f96e.chunk.js.map": "/Portfolio/static/js/3.f706f96e.chunk.js.map",
+    "static/js/2.bc45a14b.chunk.js": "/Portfolio/static/js/2.bc45a14b.chunk.js",
+    "static/js/2.bc45a14b.chunk.js.map": "/Portfolio/static/js/2.bc45a14b.chunk.js.map",
+    "static/js/3.20707837.chunk.js": "/Portfolio/static/js/3.20707837.chunk.js",
+    "static/js/3.20707837.chunk.js.map": "/Portfolio/static/js/3.20707837.chunk.js.map",
     "index.html": "/Portfolio/index.html",
     "static/css/2.9082872e.chunk.css.map": "/Portfolio/static/css/2.9082872e.chunk.css.map",
-    "static/css/main.567b902f.chunk.css.map": "/Portfolio/static/css/main.567b902f.chunk.css.map",
-    "static/js/2.da55cd99.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.da55cd99.chunk.js.LICENSE.txt",
+    "static/css/main.ecaaaba4.chunk.css.map": "/Portfolio/static/css/main.ecaaaba4.chunk.css.map",
+    "static/js/2.bc45a14b.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.bc45a14b.chunk.js.LICENSE.txt",
     "static/media/style.css": "/Portfolio/static/media/IMG_2978.138c98cb.JPG",
-    "static/media/main.css": "/Portfolio/static/media/proj2-1.618d4d0f.png"
+    "static/media/actor-database.72701929.jpg": "/Portfolio/static/media/actor-database.72701929.jpg",
+    "static/media/one-track.618d4d0f.jpg": "/Portfolio/static/media/one-track.618d4d0f.jpg",
+    "static/media/smiley-job-recruiter.0b13db67.jpg": "/Portfolio/static/media/smiley-job-recruiter.0b13db67.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.79c0a6d8.js",
+    "static/js/runtime-main.9aef10e5.js",
     "static/css/2.9082872e.chunk.css",
-    "static/js/2.da55cd99.chunk.js",
-    "static/css/main.567b902f.chunk.css",
-    "static/js/main.f305f9cf.chunk.js"
+    "static/js/2.bc45a14b.chunk.js",
+    "static/css/main.ecaaaba4.chunk.css",
+    "static/js/main.444e0e5f.chunk.js"
   ]
 }
