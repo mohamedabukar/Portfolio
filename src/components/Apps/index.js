@@ -2,6 +2,7 @@ import React from "react";
 import actor from "../../images/actor-database.jpg";
 import track from "../../images/one-track.jpg";
 import smiley from "../../images/smiley-job-recruiter.jpg";
+import book from "../../images/book.jpg";
 import "./main.css";
 
 export default function Apps() {
@@ -32,7 +33,16 @@ export default function Apps() {
                         <img src={smiley} width="320" height="270" alt="smiley" />
                     </a>
                     <h3>Smiley Recruiter</h3>
-                    <a href="https://github.com/JChosay/group-pj3-smileyrecruiter.git" target="_blank" rel="noreferrer">
+                    <a href="https://github.com/mohamedabukar/group-pj3-smileyrecruiter" target="_blank" rel="noreferrer">
+                        <p>Github Repository</p>
+                    </a>
+                </div>
+                <div className="project">
+                    <a href="https://powerful-fortress-73500.herokuapp.com/" target="_blank" rel="noreferrer">
+                        <img src={book} width="320" height="270" alt="book search" />
+                    </a>
+                    <h3>Book Search</h3>
+                    <a href="https://github.com/mohamedabukar/booksearch" target="_blank" rel="noreferrer">
                         <p>Github Repository</p>
                     </a>
                 </div>
