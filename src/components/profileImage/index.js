@@ -4,7 +4,7 @@ import profileImg from "./IMG_2978.JPG";
 export default function ProfileImage () {
     return (
         <div className="profilepic">
-            <img src={profileImg} alt ="Profile" height={600} width={400} />
+            <img src={profileImg} alt ="Profile" height={450} width={350}/>
         </div>
     )
 }
