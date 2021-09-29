@@ -20,7 +20,7 @@ export default function BioPage() {
                 </div>
                 <div className="bio-section col-4">
                     <h2>Education</h2>
-                    <p>I enrolled in the Full Stack Web Developement bootcamp that the Unviversity of Minnesota was offering. In this bootcamp we learned important skills such as creating applications containing jquery, javascript, react, css and html. It was a 12 week intensive course which was 20 hours a week of class time.</p>
+                    <p>I completed the Full Stack Web Developement bootcamp that the Unviversity of Minnesota was offering. In this bootcamp we learned important skills such as creating applications containing jquery, javascript, react, css and html. It was a 12 week intensive course which was 20 hours a week of class time.</p>
                     <h2>Other Experiences</h2>
                     <p>I've worked in a homecare facility for the past year where i've been taking care of mentaly unstable and vulnerable patients. This has taught me to be very patient and understanding.</p>
                 </div>
