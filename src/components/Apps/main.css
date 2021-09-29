@@ -1,24 +1,42 @@
 *{
     background-color: grey;
 }
-.project1{
-    background-image: url(../../images/homePage.PNG);
-    background-size: cover;
-    width: 100%;
-    height: 500px;
-    padding-bottom: 5%;
+.apps{
+    display:flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    text-align: center;
+    width: 90%;
+    margin-left: 5%;
+    margin-right:5%;
+
 }
-.project2{
-    background-image: url(../../images/proj2-1.png);
-    background-size: cover;
-    width: 100%;
-    height: 800px;
-    padding-bottom: 5%;
+
+.apps div {
+    margin: 2%;
+    margin-bottom: 5%;
 }
-.project3{
-    background-image: url(../../images/betterteam-free-job-posting-sites-5877x3918-20210222.jpg);
-    background-size: cover;
-    width: 100%;
-    height: 600px;
-    padding-bottom: 5%;
+
+.apps a {
+    color:black;
+    font-size:20px;
+    text-decoration: none;
 }
+
+.apps p {
+    margin-top: 15px;
+}
+
+.apps a:hover {
+    color: rgb(36, 92, 196);
+}
+
+.apps img {
+    border-radius: 20px;
+}
+
+.apps img:hover {
+    filter: saturate(150%);
+    box-shadow: 0 6px 15px 0 rgb(36, 92, 196)
+}
+
