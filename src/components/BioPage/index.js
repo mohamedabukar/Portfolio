@@ -7,7 +7,7 @@ export default function BioPage() {
     return (
         <>
             <div className="bio-container row">
-                <div className="prof col-4">
+                <div className="prof col-3">
                     <ProfileImage />
                 </div>
                 <div className="bio-section col-4">
