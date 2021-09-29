@@ -45,7 +45,7 @@ export default function Contact() {
     <div className="form-container">
       <h3 id="form-greeting">Hi {name}</h3>
       <br></br>
-      <p>All fields required</p>
+      <h3>All fields required</h3>
       <form className="form">
         <div className="form-group row">
           <label htmlFor="input-name" className="col-sm-2 col-form-label">Name</label>
