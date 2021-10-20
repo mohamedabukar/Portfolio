@@ -24,13 +24,13 @@ export default function Contact() {
   const handleFormSubmit = (e) => {
     e.preventDefault();
 
-      if (!name) {
-    setErrorMessage('Please provide your name')
+    if (!name) {
+      setErrorMessage('Please provide your name')
       return
     } else if (!validateEmail(email)) {
       setErrorMessage('Please enter a valid email');
       return;
-    } 
+    }
 
     setSuccessMessage('Thanks. Contact me via email:')
 
@@ -107,6 +107,10 @@ export default function Contact() {
           <h5 className="error-text">{errorMessage}</h5>
         </div>
       )}
+      <h5><strong>Email:</strong> mohamed.h.abukar@gmail.com</h5>
+      <h5><strong>Github:</strong><a href="https://github.com/mohamedabukar" target="_blank" rel="noreferrer"> My Github</a></h5>
+      <h5><strong>My phone number: </strong> 612-644-0078</h5>
+      <h5><strong>linkdin: </strong><a href="https://www.linkedin.com/in/mohamed-abukar-0a99b2211/" target="_blank" rel="noreferrer">My Linkdin</a></h5>
     </div>
   );
 }
