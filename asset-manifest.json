@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.c2760035.chunk.css",
-    "main.js": "/Portfolio/static/js/main.88fbbe36.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.88fbbe36.chunk.js.map",
-    "runtime-main.js": "/Portfolio/static/js/runtime-main.9aef10e5.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.9aef10e5.js.map",
+    "main.css": "/Portfolio/static/css/main.25268c98.chunk.css",
+    "main.js": "/Portfolio/static/js/main.4c115a79.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.4c115a79.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.79c0a6d8.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.79c0a6d8.js.map",
     "static/css/2.9082872e.chunk.css": "/Portfolio/static/css/2.9082872e.chunk.css",
     "static/js/2.bc45a14b.chunk.js": "/Portfolio/static/js/2.bc45a14b.chunk.js",
     "static/js/2.bc45a14b.chunk.js.map": "/Portfolio/static/js/2.bc45a14b.chunk.js.map",
-    "static/js/3.20707837.chunk.js": "/Portfolio/static/js/3.20707837.chunk.js",
-    "static/js/3.20707837.chunk.js.map": "/Portfolio/static/js/3.20707837.chunk.js.map",
+    "static/js/3.f706f96e.chunk.js": "/Portfolio/static/js/3.f706f96e.chunk.js",
+    "static/js/3.f706f96e.chunk.js.map": "/Portfolio/static/js/3.f706f96e.chunk.js.map",
     "index.html": "/Portfolio/index.html",
     "static/css/2.9082872e.chunk.css.map": "/Portfolio/static/css/2.9082872e.chunk.css.map",
-    "static/css/main.c2760035.chunk.css.map": "/Portfolio/static/css/main.c2760035.chunk.css.map",
+    "static/css/main.25268c98.chunk.css.map": "/Portfolio/static/css/main.25268c98.chunk.css.map",
     "static/js/2.bc45a14b.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.bc45a14b.chunk.js.LICENSE.txt",
     "static/media/style.css": "/Portfolio/static/media/IMG_2978.138c98cb.JPG",
     "static/media/actor-database.72701929.jpg": "/Portfolio/static/media/actor-database.72701929.jpg",
@@ -21,10 +21,10 @@
     "static/media/smiley-job-recruiter.0b13db67.jpg": "/Portfolio/static/media/smiley-job-recruiter.0b13db67.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9aef10e5.js",
+    "static/js/runtime-main.79c0a6d8.js",
     "static/css/2.9082872e.chunk.css",
     "static/js/2.bc45a14b.chunk.js",
-    "static/css/main.c2760035.chunk.css",
-    "static/js/main.88fbbe36.chunk.js"
+    "static/css/main.25268c98.chunk.css",
+    "static/js/main.4c115a79.chunk.js"
   ]
 }
