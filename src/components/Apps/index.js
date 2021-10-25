@@ -15,7 +15,7 @@ export default function Apps() {
                         <img src={actor} width="320" height="270" alt="actor database" />
                     </a>
                     <h3>Actor Database</h3>
-                    <a href="https://github.com/m-ray-ofSunshine/actor-database" target="_blank" rel="noreferrer">
+                    <a href="https://github.com/mohamedabukar/actor-database" target="_blank" rel="noreferrer">
                         <p>Github Repository</p>
                     </a>
                 </div>
@@ -24,7 +24,7 @@ export default function Apps() {
                         <img src={track} width="320" height="270" alt="one track" />
                     </a>
                     <h3>One Track Music</h3>
-                    <a href="https://github.com/tedheikkila/one-track" target="_blank" rel="noreferrer">
+                    <a href="https://github.com/mohamedabukar/one-track" target="_blank" rel="noreferrer">
                         <p>Github Repository</p>
                     </a>
                 </div>
@@ -33,7 +33,7 @@ export default function Apps() {
                         <img src={smiley} width="320" height="270" alt="smiley" />
                     </a>
                     <h3>Smiley Recruiter</h3>
-                    <a href="https://github.com/mohamedabukar/group-pj3-smileyrecruiter" target="_blank" rel="noreferrer">
+                    <a href="https://github.com/mohamedabukar/Smiley-Recruiter" target="_blank" rel="noreferrer">
                         <p>Github Repository</p>
                     </a>
                 </div>

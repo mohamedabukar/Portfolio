@@ -1,18 +1,15 @@
 div p{
     font-size: large;
 }
-.profilePicture{
-    background-image: url(../images/IMG_2978.JPG);
-}
-.bio-container {
+.bio-container{
+    margin-left: 60px;
     display:flex;
     flex-direction: row;
     flex-wrap:wrap;
-}
-.bio-section{
-    display: inline-flexbox;
+    width: 90%;
+    margin-left: 5%;
+    margin-right:5%;
 }
 .prof{
-    align-items: center;
-    justify-content: center;
+    margin-right: 50px;
 }

@@ -6,7 +6,7 @@ export default function Resume() {
             <div>
                 <h2>Resume</h2>
                 <h3 className="resume">
-                    <a className="resume-link" href="https://docs.google.com/document/d/1RxdfONZ7IiGqhbTwwonCETXpTtNFNtiHvESaIhqF_20/edit?usp=sharing" target="_blank" rel="noreferrer">pdf Resume</a>
+                    <a className="resume-link" href="https://docs.google.com/document/d/1RxdfONZ7IiGqhbTwwonCETXpTtNFNtiHvESaIhqF_20/edit?usp=sharing" target="_blank" rel="noreferrer">Link to pdf Resume</a>
                 </h3>
                 <h3>Front-end Proficiencies</h3>
                 <ul className="skills">
